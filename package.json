@@ -1,7 +1,7 @@
 {
-  "name": "cordova-sqlite-evplus-ext-free-dependencies",
-  "version": "0.4.3-rc01",
-  "description": "Cordova sqlite evplus free dependencies",
+  "name": "cordova-sqlite-evplus-eu-2022-free-dependencies",
+  "version": "0.0.1-dev",
+  "description": "Cordova sqlite evplus EU 2022 free dependencies",
   "main": "404.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
